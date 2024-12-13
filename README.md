@@ -1,9 +1,12 @@
 # Steno :loop:
 
+<<<<<<< HEAD
 # Stenoo :loop:
 
 [![GitHub Super-Linter](https://github.com/enough-jainil/Steno-project/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
+=======
+>>>>>>> 79b73d438c5af8ebd0a228f158f0f8997fae9187
 ## Ultimate Steganography Software :superhero:
 
 The all-in-one steganography application. :grin:<br>
