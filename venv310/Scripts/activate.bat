@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\jaini\Downloads\thankyou\Steno-master\Steno-master\venv310
+set VIRTUAL_ENV=E:\Steno-master\venv310
 
 if not defined PROMPT set PROMPT=$P$G
 

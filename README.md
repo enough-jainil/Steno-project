@@ -1,10 +1,14 @@
 # Steno :loop:
 
+# Stenoo :loop:
+
 [![GitHub Super-Linter](https://github.com/enough-jainil/Steno-project/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 ## Ultimate Steganography Software :superhero:
 
 The all-in-one steganography application. :grin:<br>
+The all-in-one steganography application. :grin:
+
 **Formats Supported:**
 
 - Images
@@ -20,6 +24,7 @@ The all-in-one steganography application. :grin:<br>
 - Hide your private messages in images, audio, and text files.
 - Forgot password feature in case you forget. <br>
   (Click on the _3 dots_ in the main window to know more)
+- Forgot password feature in case you forget.
 - Access info about any button just by hovering over it.
 
 ![homescreen](https://github.com/enough-jainil/Steno-project/blob/master/images/img.png?raw=true)
